@@ -1,0 +1,589 @@
+*{
+margin: 0;
+padding:0 ;
+font-family: sans-serif;
+}
+
+
+body{
+    height: 3000px;
+}
+header{
+    background-image: url(img/WhatsApp\ Image\ 2024-01-31\ at\ 6.49.17\ PM.jpeg);
+    background-attachment: fixed;
+    clip-path: polygon(0 0, 100% 0, 100% 86%, 0% 100%);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 100%;
+}
+
+header .section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ width: 100%;
+ height: 100%;
+    flex-direction: column;
+}
+
+header .section h1{
+    text-transform: capitalize;
+    margin: 10px 0;
+    font-size: 45px;
+    font-weight: 500;
+}
+
+header .section p{
+text-transform: capitalize;
+font-size: 20px;
+display: flex;
+}
+
+
+header .section button{
+    padding: 10px 15px;
+    background-color: rgb(0, 119, 255);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    margin-top: 10px;
+    transition: 0.5s all ease;
+}
+
+header .section button:hover{
+transform: scale(1.1);
+}
+
+/**/
+
+div .section-titel{
+    width: 100%;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+div .section-titel h1{
+    margin: 10px 0;
+    font-size: 30px;
+    font-weight: 700;
+    text-transform: capitalize;
+
+}
+
+div .section-titel p{
+    margin-bottom: 10px;
+    color: gray;
+}
+
+div .section-titel button{
+    padding: 20px 20px ;
+    background-color: rgba(0, 0, 0, 0.849);
+    color: #fff;
+    border: none;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+
+.section-3{
+    width: 100%;
+    height: 90vh;
+    background-color: rgb(0, 110, 255);
+  
+}
+
+.section-3 .div-titel{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    color: #fff;
+ padding-top: 100px;
+}
+
+.section-3 .div-titel h3{
+    color: rgb(255, 217, 0);
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+.section-3 .div-titel h1{
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+
+.section-3 .iconssss{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ padding: 80px 50px;
+    margin: 10px 20px;
+  
+}
+  
+.section-3 .iconssss  .icons{
+    padding: 0 60px;
+    text-align: center;
+}
+
+.section-3 .iconssss .hhh{
+    text-align: center;
+    color: #008cff;
+    margin-bottom: 20px;
+    border-radius: 50%;
+    padding: 30px;
+    background-color: #fff;
+    font-size: 20px;
+}
+
+.section-3 .iconssss h3{
+    color: #fff;
+    font-size: 25px;
+
+}
+
+.section-3 .iconssss p{
+    color: #a1a0a0;
+    margin-top: 10px;
+    font-size: 15px;
+    
+}
+
+
+.section-4{
+    background-image: url(img/jhrfdsjfh.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100VH;
+    width: 100%;
+}
+
+.section-4 .information{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+    flex-direction: column;
+}
+
+.section-4 .information h1{
+    font-size: 40px;
+    font-weight: 700;
+}
+.section-4 .information h1 span{
+    margin-left: 30px;
+  padding: 8px 0;
+}
+
+.section-4 .information button{
+    margin-top: 30px;
+    padding: 19px 20px ;
+    border: none;
+    color: #fff;
+    border-radius: 9px;
+    background-color: rgb(0, 89, 255);
+}
+
+
+/*------------------------------------------------------------------------*/
+
+.section-55{
+    padding-top: 50px;
+    width: 100%;
+    height: 100vh;
+
+}
+
+
+
+.section-55 .titel-infirmashen{
+    width: 100%;
+  margin: 100px 0;
+  flex-direction: column;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-55 .titel-infirmashen h3{
+    color: rgb(255, 238, 0);
+    margin-bottom: 5px;
+
+}
+.section-55 .titel-infirmashen h1{
+    font-size: 35px;
+    font-weight: 700;
+
+}
+
+.section-55 .img img{
+    width: 350px;
+    transition: 0.3s all ease;
+    border-radius: 10px;
+}
+.section-55 .img .aaaaaa{
+width:430px ;
+  
+}
+
+
+.section-55 .img img:hover{
+    transform: scale(1.1);
+}
+
+
+
+.section-55 .img {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+
+.section5464{
+    background-color: rgb(0, 153, 255);
+    width: 100%;
+    height: 50vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.section5464 h1{
+    margin-bottom: 20px;
+    color: #fff;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+.section5464 .btn{
+   padding: 0 20px;
+   gap: 0.5rem;
+}
+
+.section5464  button {
+padding: 19px 25px;
+color: #000;
+border: none;
+border-radius: 8px;
+background-color: #fff;
+
+}
+
+.section5464  button .btn-ddd{
+    background-color: #a1a0a0;
+    color: #ffff;
+}
+
+
+footer {
+    padding: 100px 0;
+    width: 100%;
+    height: 50vh;
+}
+
+footer .sectiofnfk{
+    width: 100%;
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+
+footer .sectiofnfk  i{
+    padding: 25px 25px;
+    font-size: 20px;
+    margin-left: 10px;
+  border: none;
+  gap: 0.5rem;
+    background-color: #0e6cf8;
+    color: #fff;
+    border-radius: 50%;
+    transition: 0.3s all ease; 
+}
+footer .sectiofnfk  i:hover{
+    transform: scale(1.1);
+}
+
+footer .pragraf{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   color: gray;
+    width: 100%;
+}
+
+footer .uppp{
+    padding: 30px 20px;
+    background-color: rgba(128, 128, 128, 0.815);
+    margin-left: 1070px;
+    border-radius: 8px;
+    transition: 0.4s all ease;
+}
+
+
+footer .uppp:hover{
+transform: scale(1.1);
+}
+
+
+
+@media (max-width:375px) {
+
+    body{
+    font-family: sans-serif;
+        overflow: hidden;
+    }
+
+
+    header{
+        background-image: url(img/WhatsApp\ Image\ 2024-01-31\ at\ 6.49.17\ PM.jpeg);
+        background-attachment: fixed;
+        clip-path: polygon(0 0, 100% 0, 100% 93%, 0% 100%);
+        background-size: contain;
+        background-position: center;
+        height: 100vh;
+        font-family: sans-serif;
+        width: 375px;
+    }
+
+    header .section h1{
+        font-family: sans-serif;
+        text-transform: capitalize;
+      
+     flex-direction: column;
+        font-size: 35px;
+      position: absolute;
+    left: 170px;
+    margin-bottom: 300px;
+        font-weight:800;
+    }
+
+    header .section p{
+        text-transform: capitalize;
+        font-size: 15px;
+        width: 240px;
+        position: absolute;
+        text-align: center;
+        left: 122px;
+        margin-bottom: 150px;
+        font-family: sans-serif;
+        font-weight: 600;
+        
+        }
+      
+
+        header .section button{
+            padding: 15px 20px;
+            background-color: rgb(0, 119, 255);
+            color: #fff;
+            border: none;
+            border-radius: 8px;
+            margin-bottom: 55px;
+            margin-left: 118px;
+            transition: 0.5s all ease;
+        }
+
+        div .section-titel h1{
+            margin: 10px ;
+            font-size: 23px;
+            font-weight: 700;
+            text-transform: capitalize;
+          text-align: center;
+        }
+
+        div .section-titel p{
+            margin-bottom: 10px;
+            color: gray;
+            text-align: center;
+            width: 300px;
+        }
+
+        div .section-titel span{
+            border-bottom: 1px solid #008cff;
+            color: #008cff;
+        }
+
+    
+
+       
+        .section-3 .iconssss{
+            display: inline-block;
+         padding: 10px 50px;
+        
+            
+          
+        }
+
+        .section-3 .div-titel h3{
+            color: rgb(255, 217, 0);
+            font-size: 15px;
+            margin-bottom: 30px;
+            position: relative;
+           bottom: 80px;
+        }
+        
+        .section-3 .div-titel h1{
+            font-size: 35px;
+            font-weight: 700;
+            text-transform: capitalize;
+            position: relative;
+            bottom: 90px;
+        }
+          
+        .section-3 .iconssss  .icons{
+            padding: 0 40px;
+            text-align: center;
+            position: relative;
+            bottom: 115px;
+            margin: 10px 0;
+        }
+        
+        .section-3 .iconssss .hhh{
+            text-align: center;
+            color: #008cff;
+            margin-bottom: 15px;
+            border-radius: 50%;
+            padding: 20px;
+            background-color: #fff;
+            font-size: 15px;
+        }
+        
+        .section-3 .iconssss h3{
+            color: #fff;
+            font-size: 20px;
+        
+        }
+        
+        .section-3 .iconssss p{
+            color: #a1a0a0;
+            margin-top: 8px;
+            font-size: 10px;
+            
+        }
+        
+        /*---------*/
+        
+        .section-55{
+            padding-top: 30px;
+            padding-bottom: 100px;
+            width: 100%;
+            height: 100vh;
+        
+        }
+        
+        
+        
+        .section-55 .titel-infirmashen{
+            width: 100%;
+          margin: 20px 0;
+          flex-direction: column;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .section-55 .titel-infirmashen h3{
+            color: rgb(255, 238, 0);
+            margin-bottom: 5px;
+        
+        }
+        .section-55 .titel-infirmashen h1{
+            font-size: 35px;
+            font-weight: 700;
+        
+        }
+        
+        .section-55 .img img{
+            width: 280px;
+            transition: 0.3s all ease;
+            border-radius: 10px;
+          
+        }
+
+        .section-55 .img .aaaaaa{
+        width:300px ;
+          
+        }
+        
+        
+        .section-55 .img img:hover{
+            transform: scale(1.1);
+        }
+        
+        
+        
+        .section-55 .img {
+        display: inline-block;
+         text-align: center;
+      
+        }
+        /*--------------------------------------------*/
+        
+        .section5464{
+            background-color: rgb(0, 153, 255);
+            width: 100%;
+            height: 50vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-direction: column;
+        }
+        .section5464 h1{
+            margin-bottom: 20px;
+            color: #fff;
+            font-size: 28px;
+            font-weight: 600;
+            text-align: center;
+        }
+        
+        .section5464 .btn{
+           padding: 0 20px;
+           gap: 0.5rem;
+        }
+        
+        .section5464  button {
+        padding: 19px 25px;
+        color: #000;
+        border: none;
+        font-size: 16px;
+        font-weight: 500;
+        border-radius: 8px;
+        background-color: #fff;
+        
+        }
+        
+        .section5464   .btn-ddd{
+            background-color: #a1a0a0;
+            color: #ffff;
+        }
+
+
+
+}
+
+/*-----------------------------maxwidth=--------------------------------------------------------------------------*/
+
+@media (max-width:667px) {
+
+    body{
+    font-family: sans-serif;
+        overflow: hidden;
+    }
+
+
+
+
+}
+
+
